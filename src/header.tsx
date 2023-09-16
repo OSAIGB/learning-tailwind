@@ -22,7 +22,7 @@ const Header: React.FC = () => {
  <img src={Arrow} alt="arrow-left" onClick={handleNav} className='w-10'/>
           <li className='hover:text-blue-500'><a href="/">Home</a></li>
           <li className='hover:text-blue-500'><a href="#">About</a></li>
-          <li className='hover:text-blue-500'><a href="#">Contact</a></li>
+          <li className='hover:text-blue-500'><a href="#">Contact</a></li> 
           <li className='hover:text-blue-500'><a href="#">Bookings</a></li>
           <li className='hover:text-blue-500'><a href="#">Photos</a></li>
           <li className='hover:text-blue-500'><a href="#">Direction</a></li>
